@@ -1,0 +1,15 @@
+/Users/dljardim/Projects/dotnetAlgorithims/bin/Debug/net7.0/dotnetAlgorithims
+/Users/dljardim/Projects/dotnetAlgorithims/bin/Debug/net7.0/dotnetAlgorithims.deps.json
+/Users/dljardim/Projects/dotnetAlgorithims/bin/Debug/net7.0/dotnetAlgorithims.runtimeconfig.json
+/Users/dljardim/Projects/dotnetAlgorithims/bin/Debug/net7.0/dotnetAlgorithims.dll
+/Users/dljardim/Projects/dotnetAlgorithims/bin/Debug/net7.0/dotnetAlgorithims.pdb
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.csproj.AssemblyReference.cache
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.AssemblyInfoInputs.cache
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.AssemblyInfo.cs
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.csproj.CoreCompileInputs.cache
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.dll
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/refint/dotnetAlgorithims.dll
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.pdb
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/dotnetAlgorithims.genruntimeconfig.cache
+/Users/dljardim/Projects/dotnetAlgorithims/obj/Debug/net7.0/ref/dotnetAlgorithims.dll
